@@ -3,4 +3,4 @@ Transformer 是Seq2Seq model，由Encoder和Decoder组成 ![[Deep Learning &amp;
 典型的例子有输入一个句子，分析每个词汇的词性是什么，比如句子“I saw a saw”，这个句子里saw和saw的词性分别是verb和nonu，如果我们用fully-connected（FC）层来做的话，那么面对同样的输入saw，我们无法得出不同的结果。
 ![[Deep Learning &amp;amp; Machine Learning/Deep Learning Block/attachments/Pasted image 20230315195403.png]]
 我们的做法可以是对输入加窗，考虑周边邻近的词汇信息，这与信号处理常用的方法类似，但是窗的长度是有限且固定的，而seq的长度是变化的，因此我们在面对这种任务的时候，我们可以借助self-attention层。
-Detail ![[Deep Learning &amp;amp; Machine Learning/Deep Learning Block/attachments/Pasted image 20230315195603.</description></item><item><title/><link>https://pinkr1ver.github.io/quartz/Table-of-content/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://pinkr1ver.github.io/quartz/Table-of-content/</guid><description>[[Deep Learning &amp;amp; Machine Learning/Deep Learning Block/Deep Learning Block - Table of Content|Deep Learning Block - Table of Content]]</description></item></channel></rss>
+Detail ![[Deep Learning &amp;amp; Machine Learning/Deep Learning Block/attachments/Pasted image 20230315195603.</description></item></channel></rss>
