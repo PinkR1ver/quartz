@@ -211,6 +211,26 @@ article {
   & p {
     overflow-wrap: anywhere;
   }
+
+  & strong {
+    color: palevioletred;
+  }
+
+  & em {
+    color: gold;
+  }
+
+  & h1 {
+    color: pink;
+  }
+
+  & h2 {
+    color: #a691d4;
+  }
+
+  & h3 {
+    color: skyblue;
+  }
 }
 
 .tags {
