@@ -8,7 +8,7 @@ Transformer 是Seq2Seq model，由Encoder和Decoder组成 Encoder 这里贴的�
 Detail 对于Self-attention层，生成的$b^i$向量是考虑到所有输入$\sum_i\alpha^i$向量
 Vector Relevance Step 1. 使用Dot-product 去计算 vector relevance Step 2.</description></item><item><title>句子</title><link>https://pinktalk.online/%E6%96%87%E5%AD%A6/%E5%8F%A5%E5%AD%90/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://pinktalk.online/%E6%96%87%E5%AD%A6/%E5%8F%A5%E5%AD%90/</guid><description>[!quote] No easy basket
 “如果你想了解American篮球的根基，你要去看看美高”
-[!quote] a poem 至少有两次喜欢
+[!quote] A poem 至少有两次喜欢
 一次发生在在一起之前，一次发生在之后，
 第一次是喜欢上你。第二次是喜欢上我们，
 我只敢把第二次翻译成爱，
