@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>tree on</title><link>https://pinktalk.online/tags/tree/</link><description>Recent content in tree on</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://pinktalk.online/tags/tree/index.xml" rel="self" type="application/rss+xml"/><item><title>Segment Tree</title><link>https://pinktalk.online/computer_sci/data_structure_and_algorithm/tree/segment_tree/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://pinktalk.online/computer_sci/data_structure_and_algorithm/tree/segment_tree/</guid><description>Overview Segment Tree（线段树）是一种用于解决区间查询问题的数据结构。它可以有效地处理包含大量区间操作的问题，如查询区间最大值、最小值、求和、更新等。
+Segment Tree将给定的区间划分为若干个较小的子区间，并使用树进行表示。每个节点表示一个子区间，树的根节点表示整个区间。每个节点记录了对应子区间的一些统计信息，如该区间的最大值、最小值、总和等。
+构建Segment Tree的过程中，首先将问题规模不断缩小，将大的区间划分为两个较小的子区间，并依次递归构建每个子区间的节点。当区间缩小到长度为1时，即叶子节点，将问题的原始数据作为叶子节点的值。
+Segment Tree的构建完成后，可以高效地进行查询和更新操作。查询操作通过递归遍历树的节点，在给定的区间范围内查找所需的统计信息。更新操作通过递归更新树的节点，更新目标区间内的值，并更新父节点的统计信息。
+由于Segment Tree的每个节点代表的区间是互不重叠的，因此在进行统计信息的查询和更新时，可以利用区间的性质进行剪枝操作，从而提高效率。
+Detail Basic Segment Tree is a basically binary tree, we can represent segment tree in a simple linear array.</description></item></channel></rss>
