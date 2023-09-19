@@ -4,4 +4,7 @@ Application 作为枚举问题的hash function Step by Step Deriving Cantor Expa
 常见的分位数包括中位数（二分位数）、四分位数（四分位数）和百分位数。
 中位数：中位数是将一组数据按照大小排序后，处于中间位置的值。将数据分成两部分，有一半的观察值小于中位数，另一半的观察值大于中位数。
 四分位数：四分位数将数据分成四个等分，分别是下四分位数（25%分位数）、中位数（50%分位数）和上四分位数（75%分位数）。下四分位数是将数据排序后，处于25%位置的值；中位数是处于50%位置的值；上四分位数是处于75%位置的值。
-百分位数：百分位数将数据分成100个等分，可以表示某个特定百分比处的数据值。例如，75%的百分位数表示将数据排序后，处于75%位置的值</description></item></channel></rss>
+百分位数：百分位数将数据分成100个等分，可以表示某个特定百分比处的数据值。例如，75%的百分位数表示将数据排序后，处于75%位置的值</description></item><item><title>Random Signal Basic</title><link>https://pinktalk.online/signal_processing/random_signal_basic/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://pinktalk.online/signal_processing/random_signal_basic/</guid><description>What is Random Signals 随机信号(Random Signals)在任何时间的取值都是不能先验确定的随机变量
+虽然随机信号的取值不能先验确定，但这些取值却服从某种统计规律，换言之，随机信号或过程可以用概率分布特性统计地描述
+随机变量 $X=x(t)$，离散状态为随机序列 $x(n)$,$x_k(n)$是随机序列$x(n)$的一个样本序列
+统计量 $$ \mu_x(n)=E{x(n)}=\lim_{N\rightarrow\infty}\frac{1}{N}\sum_{k=1}^N x_k(n) $$</description></item></channel></rss>
