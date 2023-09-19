@@ -2,4 +2,4 @@
 常见的分位数包括中位数（二分位数）、四分位数（四分位数）和百分位数。
 中位数：中位数是将一组数据按照大小排序后，处于中间位置的值。将数据分成两部分，有一半的观察值小于中位数，另一半的观察值大于中位数。
 四分位数：四分位数将数据分成四个等分，分别是下四分位数（25%分位数）、中位数（50%分位数）和上四分位数（75%分位数）。下四分位数是将数据排序后，处于25%位置的值；中位数是处于50%位置的值；上四分位数是处于75%位置的值。
-百分位数：百分位数将数据分成100个等分，可以表示某个特定百分比处的数据值。例如，75%的百分位数表示将数据排序后，处于75%位置的值</description></item></channel></rss>
+百分位数：百分位数将数据分成100个等分，可以表示某个特定百分比处的数据值。例如，75%的百分位数表示将数据排序后，处于75%位置的值</description></item><item><title>Stationary Process</title><link>https://pinktalk.online/data_sci/stochastic_process/stationary_process/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://pinktalk.online/data_sci/stochastic_process/stationary_process/</guid><description>Reference “平稳过程.” 维基百科，自由的百科全书, 11 Nov. 2021. Wikipedia, https://zh.wikipedia.org/w/index.php?title=%E5%B9%B3%E7%A8%B3%E8%BF%87%E7%A8%8B&amp;amp;oldid=68615985.</description></item><item><title>Stochastic Process - MOC</title><link>https://pinktalk.online/data_sci/stochastic_process/MOC/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://pinktalk.online/data_sci/stochastic_process/MOC/</guid><description>Basic Concept</description></item></channel></rss>
