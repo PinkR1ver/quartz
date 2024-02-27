@@ -1,3 +1,3 @@
-Credits to [Quartz - jzhao](https://quartz.jzhao.xyz/)
+# Blog Powerd by [Quartz v4](https://quartz.jzhao.xyz/)
 
-this repositoty's webpage in [https://pinktalk.online](https://pinktalk.online)
+Thanks to [jackyzha0](https://github.com/jackyzha0)
