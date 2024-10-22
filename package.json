@@ -34,12 +34,14 @@
     "quartz": "./quartz/bootstrap-cli.mjs"
   },
   "dependencies": {
+    "@chrisoakman/chessboardjs": "^1.0.0",
     "@clack/prompts": "^0.7.0",
     "@floating-ui/dom": "^1.6.3",
     "@jackyzha0/quartz": "file:",
     "@napi-rs/simple-git": "0.1.16",
     "async-mutex": "^0.4.1",
     "chalk": "^5.3.0",
+    "chess.js": "^1.0.0-beta.8",
     "chokidar": "^3.6.0",
     "cli-spinner": "^0.2.10",
     "d3": "^7.8.5",
